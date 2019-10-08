@@ -56,7 +56,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #1bb1dc;
+  background: #e98e06;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -66,7 +66,7 @@ h6 {
   border-radius: 50%;
   right: 15px;
   bottom: 15px;
-  transition: background 0.5s;
+  transition:  0.5s;
   z-index: 11;
 }
 
